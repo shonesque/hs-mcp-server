@@ -55,3 +55,5 @@ This is a solo project guided by Claude or ChatGPT. PRs welcome if you’re foll
 
 ## 🧠 Author
 **shonesque** – [https://github.com/shonesque](https://github.com/shonesque)
+## 🎖️ Certified by MCP Review
+## 🔗 MCP Review Page - [https://mcpreview.com/mcp-servers/shonesque/hs-mcp-server](https://mcpreview.com/mcp-servers/shonesque/hs-mcp-server)
